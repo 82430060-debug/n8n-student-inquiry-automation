@@ -43,16 +43,16 @@ The workflow accepts student information and a question, passes the relevant inp
 - `Student Information Assistant.json` — Exported n8n workflow.
 - `Screenshot 2026-10-15 204054.png` — Workflow screenshot.
 
-### Setup and Installation
+## Setup and Installation
 
-# Prerequisites
+### Prerequisites
 
 - A working n8n installation
 - Ollama installed and running locally
 - The model used by the workflow downloaded in Ollama
 - An Airtable account and configured credentials, if required by the workflow
 
-# Steps
+### Steps
 
 1. Download or clone this repository.
 2. Open n8n.
@@ -64,14 +64,14 @@ The workflow accepts student information and a question, passes the relevant inp
 
 **Important:** Connection URLs may differ depending on whether n8n and Ollama run directly on your computer or in separate Docker containers. Configure the URL for your actual environment.
 
-# Limitations
+## Limitations
 
 - The response quality depends on the selected language model and its capabilities.
 - The lightweight model may produce incomplete or inaccurate answers.
 - The workflow requires appropriate configuration of its local services and external integrations.
 - AI-generated responses should be reviewed before being used for important academic guidance.
 
-# Future Improvements
+## Future Improvements
 
 - Add input validation and error handling.
 - Improve response quality through prompt engineering and model evaluation.
