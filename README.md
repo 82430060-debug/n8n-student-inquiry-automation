@@ -16,3 +16,7 @@ Hey there! This is a small automation project I built to handle student inquirie
 1. Download the `Student Information Assistant.json` file from this repo.
 2. Import it into your n8n workflow editor.
 3. Connect your own Airtable and Ollama credentials, and you're good to go!
+
+# Workflow Preview
+
+![Student Inquiry Automation Workflow](Screenshot%202026-10-15%20204054.png)
