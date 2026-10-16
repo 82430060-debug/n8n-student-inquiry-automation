@@ -43,7 +43,7 @@ The workflow accepts student information and a question, passes the relevant inp
 - `Student Information Assistant.json` — Exported n8n workflow.
 - `Screenshot 2026-10-15 204054.png` — Workflow screenshot.
 
-## Setup and Installation
+### Setup and Installation
 
 # Prerequisites
 
